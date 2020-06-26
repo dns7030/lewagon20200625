@@ -1,0 +1,25 @@
+/* --- Google Fonts --- */
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:400,700");
+
+/* --- Components design --- */
+@import url("components/container.css");
+/* TODO: import new components */
+/* Importing all components file */
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+
+/* --- Fonts & colors --- */
+/* General style rules for fonts and colors */
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+
+
+.text-center {
+  text-align: center;
+}

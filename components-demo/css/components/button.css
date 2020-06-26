@@ -1,0 +1,58 @@
+.btn-medium {
+	display: inline-block;
+	color: #999999;
+    border: 1px solid #999999;
+    padding: 15px 25px;
+    border-radius: 50px;
+    font-weight: lighter;
+    opacity: 0.6;
+}
+
+.btn-medium:hover {
+	display: inline-block;
+	color: #999999;
+    border: 1px solid #999999;
+    padding: 15px 25px;
+    border-radius: 50px;
+    font-weight: lighter;
+    opacity: 0.9;	
+}
+
+.btn-treehouse {
+	display: inline-block;
+	color: white;
+    padding: 15px 25px;
+    border-radius: 4px;
+    font-weight: bold;
+    background: #6AD58B;
+    transition: background 0.3s ease;
+}
+
+.btn-treehouse:hover {
+	display: inline-block;
+	opacity: 1;
+    background: #3ac162;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-yours {
+	display: inline-block;
+	color: #111111;
+    border: 1px solid #999999;
+    padding: 15px 25px;
+    border-radius: 50px;
+    font-weight: lighter;
+    background: #6AD58B;
+    opacity: 0.6;
+}
+
+.btn-yours:hover {
+	display: inline-block;
+	color: #999999;
+    border: 1px solid #999999;
+    padding: 15px 25px;
+    border-radius: 50px;
+    font-weight: lighter;
+    opacity: 0.6;
+}
